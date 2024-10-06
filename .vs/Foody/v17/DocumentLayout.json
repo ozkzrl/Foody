@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ozkan\\source\\repos\\Foody\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\ozkan\\source\\repos\\foody\\foody.presentationlayer\\wwwroot\\viewcomponents\\adminviewlayoutcomponent\\headlayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\wwwroot\\viewcomponents\\adminviewlayoutcomponent\\headlayoutcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\ozkan\\source\\repos\\foody\\foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|c:\\users\\ozkan\\source\\repos\\foody\\foody.presentationlayer\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE2F8A21-AB7F-4F55-9C6C-A0BFBDD46440}|Foody.PresentationLayer\\Foody.PresentationLayer.csproj|solutionrelative:foody.presentationlayer\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HeadLayoutComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\wwwroot\\ViewComponents\\AdminViewLayoutComponent\\HeadLayoutComponentPartial.cs",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\wwwroot\\ViewComponents\\AdminViewLayoutComponent\\HeadLayoutComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\wwwroot\\ViewComponents\\AdminViewLayoutComponent\\HeadLayoutComponentPartial.cs",
+              "RelativeToolTip": "Foody.PresentationLayer\\wwwroot\\ViewComponents\\AdminViewLayoutComponent\\HeadLayoutComponentPartial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T14:15:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "RelativeToolTip": "Foody.PresentationLayer\\Views\\AdminLayout\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-10T13:20:52.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminLayoutController.cs",
+              "DocumentMoniker": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "RelativeDocumentMoniker": "Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "ToolTip": "C:\\Users\\ozkan\\source\\repos\\Foody\\Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "RelativeToolTip": "Foody.PresentationLayer\\Controllers\\AdminLayoutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T13:15:24.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
